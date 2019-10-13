@@ -20,3 +20,4 @@ Cara membuat repositori di GIT
 11.	Kemudian command “git pull origin master”. Git pull untuk mengambil commit terbaru lalu otomatis menggaubungkan (merge) dengan branch yang aktif.
 12.	Terakhir mengecek file yang README.md yang sudah diupload dengan command “ll”
 
+Copyright VenoSW 2019
