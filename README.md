@@ -1,4 +1,4 @@
-# Latihan1
+# Latihan VCS
 VCS merupakan sebuah sistem yang merekam perubahan-perubahan dari sebuah berkas atau
 sekumpulan berkasdari waktu ke waktu sehingga anda dapat melihat kembali setiap perubahannya.
 Salah satu DVCS (Dsitributed Version Control System) yang sangat populer saat ini adalah GIT.
@@ -6,7 +6,7 @@ Salah satu DVCS (Dsitributed Version Control System) yang sangat populer saat in
 Git adalah salah satu sistem pengontrol versi (Version Control System) pada proyek
 perangkat lunak yang diciptakan oleh Linus Torvalds.
 
-Cara membuat repositori di GIT
+# Cara membuat repositori di GIT
 1. Buka aplikasi “Git Bash”
 2. Masuk ke penyimpanan file yang akan dibuat misal akan dibuat di direktori C dengan command "cd /c”
 3. Buat file terlebih dahulu dengan command "mkdir Latihan1"
